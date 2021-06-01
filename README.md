@@ -1,1 +1,3 @@
-# rambitoJS-art
+# RambitoJS Art
+
+Files and images 🐾
